@@ -4,7 +4,7 @@ RL-Control is an example environment to simulate a network control system  with 
 
 ## Prerequisite
 ### Linux/Windows Machine:
-Ubuntu 18.04 or later
+Ubuntu 18.04 or later/
 Windows 7 or later
 
 ### Install SUMO v1.6.0:
